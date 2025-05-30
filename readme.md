@@ -33,7 +33,8 @@ The infrastructure is deployed in a single AWS region with two Availability Zone
 ## Repository Structure
 
 ```bash
-.
+terraform
+├──readme.md
 ├── main.tf
 ├── provider.tf
 ├── version.tf
